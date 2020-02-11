@@ -1,0 +1,57 @@
+.outer-container {
+  padding: 24px;
+}
+
+.bottom-container {
+  display: none;
+}
+
+.inline.field {
+  display: flex;
+  align-items: center;
+}
+
+.inline.field .dropdown {
+  flex: 1;
+}
+
+svg {
+  display: block;
+}
+
+svg text {
+  font-size: 10px;
+}
+
+#target-hospital-select {
+  width: 420px;
+}
+
+.multiple.dropdown .ui.label:first-child i {
+  display: none;
+}
+
+/* Financial performance chart */
+.axis path,
+.axis line {
+  stroke: #dcdcdc;
+}
+
+.chart {
+  margin: 24px 0;
+}
+
+/* Tooltip */
+.chart-tooltip {
+  max-width: 400px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 0.5em 1em;
+  line-height: 1.4;
+  border-radius: 0.25rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: 1px solid #dcdcdc;
+  pointer-events: none;
+  z-index: 1000;
+}

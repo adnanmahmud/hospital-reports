@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hospital Report</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/semantic-ui-css@2.4.1/semantic.min.css"
+      integrity="sha256-9mbkOfVho3ZPXfM7W8sV2SndrGDuh7wuyLjtsWeTI1Q="
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="outer-container">
+      <div class="top-container">
+        <div class="ui form">
+          <div class="field">
+            <label>Pick target Hospital</label>
+            <div
+              class="ui search selection dropdown"
+              id="target-hospital-select"
+            >
+              <div class="text"></div>
+              <i class="dropdown icon"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="bottom-container">
+        <div class="ui secondary pointing menu">
+          <a class="item active" data-tab="financial-performance">
+            Financial Performance
+          </a>
+          <a class="item" data-tab="drg-analysis">
+            DRG Analysis
+          </a>
+          <a class="item" data-tab="location-analysis">
+            Location Analysis
+          </a>
+        </div>
+        <div
+          class="ui tab active"
+          id="financial-performance"
+          data-tab="financial-performance"
+        >
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          </p>
+        </div>
+        <div class="ui tab" id="drg-analysis" data-tab="drg-analysis">
+          <p>
+            Soluta a quia aliquid, necessitatibus incidunt voluptates nulla amet
+            sit sed;
+          </p>
+        </div>
+        <div class="ui tab" id="location-analysis" data-tab="location-analysis">
+          <p>
+            Itaque tempore illo exercitationem quo laborum error tenetur
+            voluptatibus sint unde.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-array.v2.min.js"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.min.js"
+      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/semantic-ui-css@2.4.1/semantic.min.js"
+      integrity="sha256-t8GepnyPmw9t+foMh3mKNvcorqNHamSKtKRxxpUEgFI="
+      crossorigin="anonymous"
+    ></script>
+    <script src="main.js"></script>
+  </body>
+</html>

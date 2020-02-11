@@ -1,0 +1,916 @@
+Name,ORGID ,FACID ,Cohort,DRG Name, DRG Discharges  
+Anna Jaques Hospital,1,2006,Community Hospital,Normal Neonate Birth,681
+Athol Hospital,2,2226,Community High Public Payer Hospital,COPD,97
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Normal Neonate Birth,370
+Baystate Medical Center,4,2339,Teaching Hospital,Normal Neonate Birth,3301
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Septicemia Infections,333
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Septicemia Infections,425
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Septicemia Infections,874
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Septicemia Infections,540
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Septicemia Infections,440
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Normal Neonate Birth,755
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Normal Neonate Birth,4382
+Boston Children's Hospital ,46,2139,Specialty Hospital,Seizure,603
+Boston Medical Center,3107,2307,Academic Medical Center,Normal Neonate Birth,2351
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Alcohol Abuse & Dependence,639
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Normal Neonate Birth,5022
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Normal Neonate Birth,1016
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Septicemia Infections,2053
+Cooley Dickinson Hospital,50,2155,Community Hospital,Normal Neonate Birth,490
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,Chemotherapy,437
+Emerson Hospital,57,2018,Community Hospital,Normal Neonate Birth,1147
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Normal Neonate Birth,124
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Septicemia Infections,1022
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Maj Depressive Disorders,331
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Normal Neonate Birth,606
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Normal Neonate Birth,376
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Septicemia Infections,643
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Septicemia Infections,1457
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Normal Neonate Birth,1324
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Normal Neonate Birth,2038
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Maj Depressive Disorders,300
+Martha's Vineyard Hospital,88,2042,Community Hospital,Normal Neonate Birth,120
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Other ENT Procedures,116
+Massachusetts General Hospital,91,2168,Academic Medical Center,Normal Neonate Birth,3181
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Normal Neonate Birth,746
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Opioid Abuse & Dependence,1572
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Normal Neonate Birth,959
+Milford Regional Medical Center,97,2105,Community Hospital,Normal Neonate Birth,832
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Septicemia Infections,553
+Mount Auburn Hospital,100,2071,Teaching Hospital,Normal Neonate Birth,2404
+Nantucket Cottage Hospital,101,2044,Community Hospital,Normal Neonate Birth,139
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Org Mental Hlth Disturb,176
+New England Baptist Hospital,103,2059,Specialty Hospital,Knee Joint Replacement,3452
+Newton-Wellesley Hospital,105,2075,Community Hospital,Normal Neonate Birth,3295
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Normal Neonate Birth,1084
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Normal Neonate Birth,2010
+Saint Vincent Hospital,127,2128,Teaching Hospital,Normal Neonate Birth,1684
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,Skin Graft for Skin Dxs,37
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,D & L Fusion for Curvature,31
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Normal Neonate Birth,846
+South Shore Hospital,122,2107,Community Hospital,Normal Neonate Birth,2796
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Normal Neonate Birth,2884
+Steward Carney Hospital,42,2003,Teaching Hospital,Septicemia Infections,357
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Normal Neonate Birth,1121
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Normal Neonate Birth,965
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Bipolar Disorders,470
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Septicemia Infections,479
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Normal Neonate Birth,752
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Normal Neonate Birth,596
+Tufts Medical Center,104,2299,Academic Medical Center,Normal Neonate Birth,968
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Normal Neonate Birth,3694
+Winchester Hospital,138,2094,Community Hospital,Normal Neonate Birth,2065
+Anna Jaques Hospital,1,2006,Community Hospital,Bipolar Disorders,525
+Athol Hospital,2,2226,Community High Public Payer Hospital,Other Pneumonia,78
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Septicemia Infections,307
+Baystate Medical Center,4,2339,Teaching Hospital,Vaginal Delivery,2491
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Bipolar Disorders,233
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Maj Depressive Disorders,245
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,"Drug/Alcohol Abuse, LAMA",767
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Knee Joint Replacement,505
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Heart Failure,241
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Septicemia Infections,654
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Vaginal Delivery,3310
+Boston Children's Hospital ,46,2139,Specialty Hospital,Chemotherapy,486
+Boston Medical Center,3107,2307,Academic Medical Center,Vaginal Delivery,1693
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Knee Joint Replacement,630
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Vaginal Delivery,3939
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Vaginal Delivery,761
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Normal Neonate Birth,742
+Cooley Dickinson Hospital,50,2155,Community Hospital,Maj Depressive Disorders,383
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,Bone Marrow Transplant,198
+Emerson Hospital,57,2018,Community Hospital,Vaginal Delivery,792
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Septicemia Infections,110
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Normal Neonate Birth,306
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,COPD,300
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Vaginal Delivery,472
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Vaginal Delivery,347
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Normal Neonate Birth,402
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Heart Failure,955
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Vaginal Delivery,880
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Vaginal Delivery,1399
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Septicemia Infections,245
+Martha's Vineyard Hospital,88,2042,Community Hospital,Oth Aftercare & Convalescence,99
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Other Maj Head/Neck Procs,115
+Massachusetts General Hospital,91,2168,Academic Medical Center,Vaginal Delivery,2599
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Heart Failure,536
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Normal Neonate Birth,1134
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Maj Depressive Disorders,893
+Milford Regional Medical Center,97,2105,Community Hospital,Septicemia Infections,635
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Heart Failure,355
+Mount Auburn Hospital,100,2071,Teaching Hospital,Vaginal Delivery,1865
+Nantucket Cottage Hospital,101,2044,Community Hospital,Vaginal Delivery,99
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,COPD,138
+New England Baptist Hospital,103,2059,Specialty Hospital,Hip Joint Replacement,3067
+Newton-Wellesley Hospital,105,2075,Community Hospital,Vaginal Delivery,2512
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Heart Failure,956
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Vaginal Delivery,1516
+Saint Vincent Hospital,127,2128,Teaching Hospital,Vaginal Delivery,1218
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,Burns w/ or w/o Skin Graft,36
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Septicemia Infections,813
+South Shore Hospital,122,2107,Community Hospital,Vaginal Delivery,1971
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Vaginal Delivery,2211
+Steward Carney Hospital,42,2003,Teaching Hospital,Maj Depressive Disorders,284
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Opioid Abuse & Dependence,1022
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Vaginal Delivery,639
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Heart Failure,444
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Knee Joint Replacement,444
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Alcohol & Drug w/ Rehab,650
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,COPD,490
+Tufts Medical Center,104,2299,Academic Medical Center,Vaginal Delivery,804
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Vaginal Delivery,2831
+Winchester Hospital,138,2094,Community Hospital,Vaginal Delivery,1499
+Anna Jaques Hospital,1,2006,Community Hospital,Maj Depressive Disorders,479
+Athol Hospital,2,2226,Community High Public Payer Hospital,Heart Failure,58
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Vaginal Delivery,268
+Baystate Medical Center,4,2339,Teaching Hospital,Heart Failure,1649
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Maj Depressive Disorders,184
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Heart Failure,197
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Alcohol & Drug w/ Rehab,767
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Hip Joint Replacement,396
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Other Pneumonia,119
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Vaginal Delivery,521
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Cesarean Delivery,1656
+Boston Children's Hospital ,46,2139,Specialty Hospital,Bronchiolitis & RSV Pneumonia,349
+Boston Medical Center,3107,2307,Academic Medical Center,Cesarean Delivery,980
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Mastectomy Procedures,364
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Cesarean Delivery,2033
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Maj Depressive Disorders,571
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Vaginal Delivery,528
+Cooley Dickinson Hospital,50,2155,Community Hospital,Vaginal Delivery,354
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,Maj HEM/IG Dx exc SC,61
+Emerson Hospital,57,2018,Community Hospital,Cesarean Delivery,435
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Vaginal Delivery,85
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Heart Failure,282
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Bipolar Disorders,257
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Other Pneumonia,389
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Org Mental Hlth Disturb,301
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Maj Depressive Disorders,338
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Cardiac Arrhythmia ,547
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Septicemia Infections,547
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Septicemia Infections,1122
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Other Pneumonia,211
+Martha's Vineyard Hospital,88,2042,Community Hospital,Septicemia Infections,80
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Orbital Procs,98
+Massachusetts General Hospital,91,2168,Academic Medical Center,Heart Failure,1071
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Vaginal Delivery,533
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Vaginal Delivery,886
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Vaginal Delivery,645
+Milford Regional Medical Center,97,2105,Community Hospital,Vaginal Delivery,581
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,COPD,278
+Mount Auburn Hospital,100,2071,Teaching Hospital,Cesarean Delivery,640
+Nantucket Cottage Hospital,101,2044,Community Hospital,Septicemia Infections,50
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Heart Failure,110
+New England Baptist Hospital,103,2059,Specialty Hospital,D & L Fusion exc Curvature,690
+Newton-Wellesley Hospital,105,2075,Community Hospital,Cesarean Delivery,1119
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Septicemia Infections,859
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Septicemia Infections,907
+Saint Vincent Hospital,127,2128,Teaching Hospital,Septicemia Infections,960
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Vaginal Delivery,669
+South Shore Hospital,122,2107,Community Hospital,Septicemia Infections,1855
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Septicemia Infections,2009
+Steward Carney Hospital,42,2003,Teaching Hospital,Depression exc MDD,253
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Alcohol Abuse & Dependence,799
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Bipolar Disorders,605
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Normal Neonate Birth,423
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,COPD,432
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Bipolar Disorders,581
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Septicemia Infections,489
+Tufts Medical Center,104,2299,Academic Medical Center,Septicemia Infections,444
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Septicemia Infections,1785
+Winchester Hospital,138,2094,Community Hospital,Cesarean Delivery,746
+Anna Jaques Hospital,1,2006,Community Hospital,Vaginal Delivery,464
+Athol Hospital,2,2226,Community High Public Payer Hospital,Kidney & UT Infections,33
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Heart Failure,213
+Baystate Medical Center,4,2339,Teaching Hospital,Septicemia Infections,1567
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Pulm Edema & Resp Failure,156
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Org Mental Hlth Disturb,165
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Heart Failure,678
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Heart Failure,372
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Bacterial Skin Infections,102
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Knee Joint Replacement,465
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Septicemia Infections,1049
+Boston Children's Hospital ,46,2139,Specialty Hospital,Craniotomy; exc Trauma,321
+Boston Medical Center,3107,2307,Academic Medical Center,Heart Failure,840
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Heart Failure,358
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Craniotomy; exc Trauma,842
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Septicemia Infections,477
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Heart Failure,507
+Cooley Dickinson Hospital,50,2155,Community Hospital,Septicemia Infections,305
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,Lymphoma & Non-Acute Leuk,42
+Emerson Hospital,57,2018,Community Hospital,Alcohol Abuse & Dependence,423
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Heart Failure,43
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Knee Joint Replacement,278
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Heart Failure,256
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Heart Failure,365
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,COPD,269
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,COPD,324
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Renal Failure,534
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Heart Failure,542
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Heart Failure,994
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Heart Failure,199
+Martha's Vineyard Hospital,88,2042,Community Hospital,Knee Joint Replacement,69
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Maj Cranial/Facial Bone,92
+Massachusetts General Hospital,91,2168,Academic Medical Center,Septicemia Infections,1062
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Septicemia Infections,393
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,"Drug/Alcohol Abuse, LAMA",885
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Bipolar Disorders,558
+Milford Regional Medical Center,97,2105,Community Hospital,Heart Failure,530
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Other Pneumonia,220
+Mount Auburn Hospital,100,2071,Teaching Hospital,Septicemia Infections,491
+Nantucket Cottage Hospital,101,2044,Community Hospital,Cesarean Delivery,38
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Other Pneumonia,93
+New England Baptist Hospital,103,2059,Specialty Hospital,Shoulder & Arm Procs,432
+Newton-Wellesley Hospital,105,2075,Community Hospital,Septicemia Infections,738
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Vaginal Delivery,800
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Knee Joint Replacement,780
+Saint Vincent Hospital,127,2128,Teaching Hospital,Heart Failure,760
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,COPD,497
+South Shore Hospital,122,2107,Community Hospital,Cesarean Delivery,1091
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Heart Failure,1659
+Steward Carney Hospital,42,2003,Teaching Hospital,Schizophrenia,203
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Vaginal Delivery,798
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Heart Failure,581
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Maj Depressive Disorders,418
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Heart Failure,387
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Vaginal Delivery,547
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Vaginal Delivery,418
+Tufts Medical Center,104,2299,Academic Medical Center,Cesarean Delivery,437
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Cesarean Delivery,1285
+Winchester Hospital,138,2094,Community Hospital,Other Pneumonia,582
+Anna Jaques Hospital,1,2006,Community Hospital,Knee Joint Replacement,322
+Athol Hospital,2,2226,Community High Public Payer Hospital,Oth Aftercare & Convalescence,30
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Maj Depressive Disorders,213
+Baystate Medical Center,4,2339,Teaching Hospital,Cesarean Delivery,1293
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Heart Failure,129
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Bipolar Disorders,160
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Normal Neonate Birth,630
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Other Pneumonia,220
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Maj Resp Infect & Inflam,88
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Other Pneumonia,377
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Heart Failure,949
+Boston Children's Hospital ,46,2139,Specialty Hospital,Other Pneumonia,307
+Boston Medical Center,3107,2307,Academic Medical Center,Septicemia Infections,763
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Septicemia Infections,243
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Heart Failure,820
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Schizophrenia,470
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Hip Joint Replacement,378
+Cooley Dickinson Hospital,50,2155,Community Hospital,COPD,252
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,Digestive Malignancy,38
+Emerson Hospital,57,2018,Community Hospital,Septicemia Infections,408
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Knee Joint Replacement,41
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Vaginal Delivery,193
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Septicemia Infections,229
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Septicemia Infections,363
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Heart Failure,219
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Vaginal Delivery,301
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Hip Joint Replacement,529
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Cesarean Delivery,504
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Cesarean Delivery,781
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Schizophrenia,174
+Martha's Vineyard Hospital,88,2042,Community Hospital,Vaginal Delivery,63
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Othr O.R. Procs for Lymph/HEM,71
+Massachusetts General Hospital,91,2168,Academic Medical Center,Cesarean Delivery,1054
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Other Pneumonia,351
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Maj Depressive Disorders,545
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Septicemia Infections,545
+Milford Regional Medical Center,97,2105,Community Hospital,COPD,315
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Cardiac Arrhythmia ,180
+Mount Auburn Hospital,100,2071,Teaching Hospital,Heart Failure,380
+Nantucket Cottage Hospital,101,2044,Community Hospital,Oth Aftercare & Convalescence,37
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Cardiac Arrhythmia ,74
+New England Baptist Hospital,103,2059,Specialty Hospital,C. Spinal Fusion & Other Procs,295
+Newton-Wellesley Hospital,105,2075,Community Hospital,Hip Joint Replacement,659
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Maj Depressive Disorders,566
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Maj Depressive Disorders,755
+Saint Vincent Hospital,127,2128,Teaching Hospital,COPD,595
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Heart Failure,288
+South Shore Hospital,122,2107,Community Hospital,Heart Failure,965
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,COPD,1524
+Steward Carney Hospital,42,2003,Teaching Hospital,Heart Failure,202
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,"Drug/Alcohol Abuse, LAMA",754
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Septicemia Infections,489
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Depression exc MDD,378
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Other Pneumonia,375
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Maj Depressive Disorders,426
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Other Pneumonia,355
+Tufts Medical Center,104,2299,Academic Medical Center,Heart Failure,384
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Heart Failure,921
+Winchester Hospital,138,2094,Community Hospital,Heart Failure,462
+Anna Jaques Hospital,1,2006,Community Hospital,COPD,250
+Athol Hospital,2,2226,Community High Public Payer Hospital,Bacterial Skin Infections,28
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,COPD,160
+Baystate Medical Center,4,2339,Teaching Hospital,Knee Joint Replacement,1014
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Schizophrenia,93
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Other Pneumonia,126
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Vaginal Delivery,536
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Pulm Edema & Resp Failure,166
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Hip Joint Replacement,85
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Heart Failure,377
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Chemotherapy,513
+Boston Children's Hospital ,46,2139,Specialty Hospital,Cystic Fibrosis - Pulmonary Disease,306
+Boston Medical Center,3107,2307,Academic Medical Center,Bacterial Skin Infections,454
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Hip Joint Replacement,230
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Maj Sml & Lrg Bowel Procs,783
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Bipolar Disorders,469
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Maj Depressive Disorders,377
+Cooley Dickinson Hospital,50,2155,Community Hospital,Heart Failure,219
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,Other Digestive System Dx,31
+Emerson Hospital,57,2018,Community Hospital,Procedures For Obesity,240
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Other Pneumonia,40
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Hip Joint Replacement,183
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Schizophrenia,203
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,COPD,324
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Other Pneumonia,191
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Heart Failure,258
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,CVA Occlusion w/ Infarct,498
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,COPD,303
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Other Pneumonia,746
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Bipolar Disorders,163
+Martha's Vineyard Hospital,88,2042,Community Hospital,Cesarean Delivery,60
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,"Oth Skin, Tis & Rel Procs",59
+Massachusetts General Hospital,91,2168,Academic Medical Center,Craniotomy; exc Trauma,891
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,COPD,341
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Heart Failure,531
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Heart Failure,383
+Milford Regional Medical Center,97,2105,Community Hospital,Other Pneumonia,305
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Degen Nrvs Syst exc MS,160
+Mount Auburn Hospital,100,2071,Teaching Hospital,Other Pneumonia,347
+Nantucket Cottage Hospital,101,2044,Community Hospital,Heart Failure,35
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Kidney & UT Infections,71
+New England Baptist Hospital,103,2059,Specialty Hospital,Intervertebral Disc Excis,118
+Newton-Wellesley Hospital,105,2075,Community Hospital,Knee Joint Replacement,641
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,COPD,525
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Heart Failure,656
+Saint Vincent Hospital,127,2128,Teaching Hospital,Cesarean Delivery,556
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Bipolar Disorders,236
+South Shore Hospital,122,2107,Community Hospital,Other Pneumonia,946
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Other Pneumonia,1183
+Steward Carney Hospital,42,2003,Teaching Hospital,Bipolar Disorders,166
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Septicemia Infections,740
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Maj Depressive Disorders,473
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Septicemia Infections,342
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Bacterial Skin Infections,291
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Procedures For Obesity,399
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Heart Failure,321
+Tufts Medical Center,104,2299,Academic Medical Center,Per Cardio procs w/o AMI,273
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Other Pneumonia,681
+Winchester Hospital,138,2094,Community Hospital,Septicemia Infections,422
+Anna Jaques Hospital,1,2006,Community Hospital,Cesarean Delivery,227
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Other Pneumonia,159
+Baystate Medical Center,4,2339,Teaching Hospital,Per Cardio procs w/ AMI,690
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,COPD,84
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Cardiac Arrhythmia ,108
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Bipolar Disorders,508
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Bacterial Skin Infections,151
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Kidney & UT Infections,78
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,COPD,302
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Other Vascular Procs,486
+Boston Children's Hospital ,46,2139,Specialty Hospital,Other Digestive System Dx,301
+Boston Medical Center,3107,2307,Academic Medical Center,Procedures For Obesity,426
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Kidney & UT Infections,212
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Major Resp & Chest Proc,672
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Heart Failure,386
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Knee Joint Replacement,374
+Cooley Dickinson Hospital,50,2155,Community Hospital,Knee Joint Replacement,190
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,Acute Leukemia,29
+Emerson Hospital,57,2018,Community Hospital,Heart Failure,235
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Cesarean Delivery,35
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Kidney & UT Infections,152
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Other Pneumonia,160
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Renal Failure,219
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Bipolar Disorders,148
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Renal Failure,167
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Other Pneumonia,491
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Kidney & UT Infections,284
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Knee Joint Replacement,597
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,COPD,158
+Martha's Vineyard Hospital,88,2042,Community Hospital,Other Pneumonia,53
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Craniotomy; exc Trauma,54
+Massachusetts General Hospital,91,2168,Academic Medical Center,Chemotherapy,828
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Renal Failure,305
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Alcohol Abuse & Dependence,516
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Cesarean Delivery,382
+Milford Regional Medical Center,97,2105,Community Hospital,Cesarean Delivery,298
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Kidney & UT Infections,150
+Mount Auburn Hospital,100,2071,Teaching Hospital,Hip Joint Replacement,246
+Nantucket Cottage Hospital,101,2044,Community Hospital,Other Pneumonia,30
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Maj Resp Infect & Inflam,68
+New England Baptist Hospital,103,2059,Specialty Hospital,Oth Muscl Sys & Tis Proc,112
+Newton-Wellesley Hospital,105,2075,Community Hospital,Heart Failure,487
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Other Pneumonia,508
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Bipolar Disorders,617
+Saint Vincent Hospital,127,2128,Teaching Hospital,Hip Joint Replacement,544
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Bacterial Skin Infections,231
+South Shore Hospital,122,2107,Community Hospital,COPD,842
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Cesarean Delivery,1022
+Steward Carney Hospital,42,2003,Teaching Hospital,Bacterial Skin Infections,134
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Heart Failure,664
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Cesarean Delivery,427
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Vaginal Delivery,310
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Kidney & UT Infections,288
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Schizophrenia,388
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Bacterial Skin Infections,238
+Tufts Medical Center,104,2299,Academic Medical Center,Seizure,265
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Per Cardio procs w/ AMI,538
+Winchester Hospital,138,2094,Community Hospital,Knee Joint Replacement,368
+Anna Jaques Hospital,1,2006,Community Hospital,Heart Failure,222
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Bipolar Disorders,145
+Baystate Medical Center,4,2339,Teaching Hospital,COPD,650
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Other Pneumonia,77
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Schizophrenia,99
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Other Pneumonia,334
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Cardiac Arrhythmia ,150
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Cardiac Arrhythmia ,76
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Kidney & UT Infections,298
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Maj Sml & Lrg Bowel Procs,484
+Boston Children's Hospital ,46,2139,Specialty Hospital,Diabetes,299
+Boston Medical Center,3107,2307,Academic Medical Center,Sickle Cell Anemia Crisis,425
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Renal Failure,196
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Hip Joint Replacement,663
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Adjust Dis/Neuroses exc DD,368
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,CVA Occlusion w/ Infarct,353
+Cooley Dickinson Hospital,50,2155,Community Hospital,Other Pneumonia,168
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,Knee Joint Replacement,209
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Oth Aftercare & Convalescence,34
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Alcohol Abuse & Dependence,135
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Depression exc MDD,117
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Bacterial Skin Infections,196
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Knee Joint Replacement,147
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Cardiac Arrhythmia ,152
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Knee Joint Replacement,455
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Bacterial Skin Infections,280
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,COPD,594
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Knee Joint Replacement,120
+Martha's Vineyard Hospital,88,2042,Community Hospital,Kidney & UT Infections,45
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Other ENT & Cranial Dxs,47
+Massachusetts General Hospital,91,2168,Academic Medical Center,Maj Sml & Lrg Bowel Procs,814
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Maj Depressive Disorders,248
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Septicemia Infections,461
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Schizophrenia,306
+Milford Regional Medical Center,97,2105,Community Hospital,Pulm Edema & Resp Failure,265
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Pulm Edema & Resp Failure,143
+Mount Auburn Hospital,100,2071,Teaching Hospital,Cardiac Arrhythmia ,243
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Hip Joint Replacement,57
+New England Baptist Hospital,103,2059,Specialty Hospital,Knee & Lower Excpt Foot,99
+Newton-Wellesley Hospital,105,2075,Community Hospital,Procedures For Obesity,314
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Cardiac Arrhythmia ,417
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Cesarean Delivery,594
+Saint Vincent Hospital,127,2128,Teaching Hospital,Other Pneumonia,501
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Cesarean Delivery,227
+South Shore Hospital,122,2107,Community Hospital,Kidney & UT Infections,745
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Cardiac Arrhythmia ,982
+Steward Carney Hospital,42,2003,Teaching Hospital,Alcohol Abuse & Dependence,117
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Other Pneumonia,499
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,COPD,426
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Cardiac Arrhythmia ,308
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Org Mental Hlth Disturb,263
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Cesarean Delivery,337
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Knee Joint Replacement,225
+Tufts Medical Center,104,2299,Academic Medical Center,Knee Joint Replacement,257
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Renal Failure,528
+Winchester Hospital,138,2094,Community Hospital,Bacterial Skin Infections,299
+Anna Jaques Hospital,1,2006,Community Hospital,Septicemia Infections,212
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Cesarean Delivery,111
+Baystate Medical Center,4,2339,Teaching Hospital,Hip Joint Replacement,616
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Bacterial Skin Infections,77
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Pulm Edema & Resp Failure,90
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Renal Failure,332
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Renal Failure,148
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,"Malf, Reac, Compl of Genitourinary Dev",73
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Hip Joint Replacement,280
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Per Cardio procs w/o AMI,478
+Boston Children's Hospital ,46,2139,Specialty Hospital,Maj HEM/IG Dx exc SC,298
+Boston Medical Center,3107,2307,Academic Medical Center,Other Pneumonia,376
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,COPD,188
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Septicemia Infections,628
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Alcohol Abuse & Dependence,324
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Bipolar Disorders,353
+Cooley Dickinson Hospital,50,2155,Community Hospital,Cardiac Arrhythmia ,168
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,Bipolar Disorders,165
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Pulm Edema & Resp Failure,31
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Other Pneumonia,131
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Pulm Edema & Resp Failure,112
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Cesarean Delivery,195
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Adjust Dis/Neuroses exc DD,144
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Bacterial Skin Infections,149
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Per Cardio procs w/o AMI,434
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Other Pneumonia,267
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Bacterial Skin Infections,452
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Kidney & UT Infections,115
+Martha's Vineyard Hospital,88,2042,Community Hospital,Factors Influ Hlth Status,43
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Eye Procs except Orbit,46
+Massachusetts General Hospital,91,2168,Academic Medical Center,Hip Joint Replacement,803
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Cardiac Arrhythmia ,245
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Bipolar Disorders,410
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Cardiac Arrhythmia ,224
+Milford Regional Medical Center,97,2105,Community Hospital,Cardiac Arrhythmia ,241
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Bacterial Skin Infections,143
+Mount Auburn Hospital,100,2071,Teaching Hospital,Knee Joint Replacement,242
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Bacterial Skin Infections,56
+New England Baptist Hospital,103,2059,Specialty Hospital,D & L Fusion for Curvature,81
+Newton-Wellesley Hospital,105,2075,Community Hospital,Other Pneumonia,271
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Kidney & UT Infections,412
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Other Pneumonia,568
+Saint Vincent Hospital,127,2128,Teaching Hospital,Knee Joint Replacement,465
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Cardiac Arrhythmia ,226
+South Shore Hospital,122,2107,Community Hospital,"Non-Bact Gastro, Nausea",542
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Bacterial Skin Infections,723
+Steward Carney Hospital,42,2003,Teaching Hospital,Pulm Edema & Resp Failure,109
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,COPD,462
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Other Pneumonia,425
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Kidney & UT Infections,248
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Hip Joint Replacement,254
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Coronary Bypass w/o Card Cath,274
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Kidney & UT Infections,225
+Tufts Medical Center,104,2299,Academic Medical Center,Cardiac Arrhythmia ,253
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,COPD,504
+Winchester Hospital,138,2094,Community Hospital,COPD,292
+Anna Jaques Hospital,1,2006,Community Hospital,Other Pneumonia,207
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Bacterial Skin Infections,110
+Baystate Medical Center,4,2339,Teaching Hospital,Renal Failure,602
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Oth Disorders of Nervous Syst,75
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,COPD,82
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Knee Joint Replacement,307
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,COPD,135
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Renal Failure,72
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Cesarean Delivery,279
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Knee Joint Replacement,473
+Boston Children's Hospital ,46,2139,Specialty Hospital,Oth Cardiothoracic Procs,294
+Boston Medical Center,3107,2307,Academic Medical Center,COPD,367
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Other Pneumonia,184
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Per Cardio procs w/o AMI,585
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Cesarean Delivery,293
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Other Pneumonia,316
+Cooley Dickinson Hospital,50,2155,Community Hospital,Bipolar Disorders,168
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,Cardiac Arrhythmia ,161
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Cardiac Arrhythmia ,27
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Renal Failure,127
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Bacterial Skin Infections,108
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Cardiac Arrhythmia ,173
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Septicemia Infections,137
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Other Pneumonia,148
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Maj Sml & Lrg Bowel Procs,429
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Cardiac Arrhythmia ,237
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Renal Failure,445
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Bacterial Skin Infections,86
+Martha's Vineyard Hospital,88,2042,Community Hospital,Hip Joint Replacement,42
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Other Nervous Syst Procs,42
+Massachusetts General Hospital,91,2168,Academic Medical Center,Knee Joint Replacement,779
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Cesarean Delivery,245
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Other Pneumonia,379
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Depression exc MDD,213
+Milford Regional Medical Center,97,2105,Community Hospital,Kidney & UT Infections,219
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Renal Failure,143
+Mount Auburn Hospital,100,2071,Teaching Hospital,Kidney & UT Infections,227
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Maj Depressive Disorders,51
+New England Baptist Hospital,103,2059,Specialty Hospital,"Proc W Diag Of Rehab, Aftercare ",40
+Newton-Wellesley Hospital,105,2075,Community Hospital,Cardiac Arrhythmia ,249
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Bacterial Skin Infections,363
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Hip Joint Replacement,558
+Saint Vincent Hospital,127,2128,Teaching Hospital,Bacterial Skin Infections,410
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Knee Joint Replacement,224
+South Shore Hospital,122,2107,Community Hospital,Bacterial Skin Infections,516
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Procedures For Obesity,648
+Steward Carney Hospital,42,2003,Teaching Hospital,Renal Failure,103
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Cesarean Delivery,405
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Schizophrenia,411
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Bacterial Skin Infections,243
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Renal Failure,219
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Per Cardio procs w/o AMI,271
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Cesarean Delivery,209
+Tufts Medical Center,104,2299,Academic Medical Center,Bacterial Skin Infections,250
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Pulm Edema & Resp Failure,466
+Winchester Hospital,138,2094,Community Hospital,Hip Joint Replacement,253
+Anna Jaques Hospital,1,2006,Community Hospital,Hip Joint Replacement,158
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Schizophrenia,107
+Baystate Medical Center,4,2339,Teaching Hospital,CVA Occlusion w/ Infarct,592
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Oth Aftercare & Convalescence,63
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Renal Failure,82
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Alcohol Abuse & Dependence,297
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Kidney & UT Infections,134
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,CVA Occlusion w/ Infarct,62
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Renal Failure,270
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Renal Failure,450
+Boston Children's Hospital ,46,2139,Specialty Hospital,Asthma,289
+Boston Medical Center,3107,2307,Academic Medical Center,Knee Joint Replacement,361
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Opioid Abuse & Dependence,179
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Chemotherapy,522
+Cambridge Health Alliance,3108,2108,Teaching Hospital,COPD,257
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Pulm Edema & Resp Failure,283
+Cooley Dickinson Hospital,50,2155,Community Hospital,Pulm Edema & Resp Failure,161
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,Hip Joint Replacement,148
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Hip Joint Replacement,26
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Cesarean Delivery,126
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Kidney & UT Infections,108
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Kidney & UT Infections,167
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Schizophrenia,136
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Procedures For Obesity,137
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Infectious & Parasitic Dis incl HIV w O.R. Proc,374
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Renal Failure,209
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Hip Joint Replacement,397
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Renal Failure,80
+Martha's Vineyard Hospital,88,2042,Community Hospital,Heart Failure,33
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,"Ear, Nose, Mouth, Throat, Cran/Fac Malig",41
+Massachusetts General Hospital,91,2168,Academic Medical Center,Cardiac Arrhythmia ,727
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Knee Joint Replacement,202
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,COPD,370
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Other Pneumonia,183
+Milford Regional Medical Center,97,2105,Community Hospital,Renal Failure,206
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Oth & Unsp Gastro Hemorrhage,109
+Mount Auburn Hospital,100,2071,Teaching Hospital,COPD,224
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Renal Failure,44
+New England Baptist Hospital,103,2059,Specialty Hospital,,
+Newton-Wellesley Hospital,105,2075,Community Hospital,Kidney & UT Infections,229
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Cesarean Delivery,354
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,COPD,437
+Saint Vincent Hospital,127,2128,Teaching Hospital,Cardiac Arrhythmia ,352
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Other Pneumonia,199
+South Shore Hospital,122,2107,Community Hospital,Cardiac Arrhythmia ,501
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Renal Failure,589
+Steward Carney Hospital,42,2003,Teaching Hospital,Poisoning of Medicinal Agents,103
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Kidney & UT Infections,356
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Knee Joint Replacement,287
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Renal Failure,224
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Cardiac Arrhythmia ,217
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Other Vascular Procs,258
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Renal Failure,178
+Tufts Medical Center,104,2299,Academic Medical Center,D & L Fusion exc Curvature,242
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Infectious & Parasitic Dis incl HIV w O.R. Proc,466
+Winchester Hospital,138,2094,Community Hospital,Diverticulitis/osis,210
+Anna Jaques Hospital,1,2006,Community Hospital,Kidney & UT Infections,153
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Cardiac Arrhythmia ,95
+Baystate Medical Center,4,2339,Teaching Hospital,Other Pneumonia,575
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Pancreas Dis exc Malig,62
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Bacterial Skin Infections,72
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Hip Joint Replacement,273
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Diverticulitis/osis,97
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,COPD,56
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Bacterial Skin Infections,258
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Other Digestive System Dx,448
+Boston Children's Hospital ,46,2139,Specialty Hospital,Hip & Femur; Non-Trauma,269
+Boston Medical Center,3107,2307,Academic Medical Center,Hip Joint Replacement,338
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Maj Male Pelvic Procs,173
+Brigham and Women's Hospital,22,2921,Academic Medical Center,D & L Fusion exc Curvature,509
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Depression exc MDD,231
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Per Cardio procs w/ AMI,281
+Cooley Dickinson Hospital,50,2155,Community Hospital,Cesarean Delivery,157
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,Maj Depressive Disorders,146
+Fairview Hospital,8,2052,Community High Public Payer Hospital,Bacterial Skin Infections,25
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Bacterial Skin Infections,123
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Knee Joint Replacement,105
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Degen Nrvs Syst exc MS,155
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Bacterial Skin Infections,118
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Asthma,132
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Per Cardio procs w/ AMI,369
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Acute Myocardial Infarct.,169
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Kidney & UT Infections,391
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Hip Joint Replacement,75
+Martha's Vineyard Hospital,88,2042,Community Hospital,COPD,27
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,"Post-Op, Oth Device Infect",36
+Massachusetts General Hospital,91,2168,Academic Medical Center,Per Cardio procs w/o AMI,716
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Kidney & UT Infections,202
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Bacterial Skin Infections,343
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,COPD,176
+Milford Regional Medical Center,97,2105,Community Hospital,Other Digestive System Dx,156
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Knee Joint Replacement,101
+Mount Auburn Hospital,100,2071,Teaching Hospital,CVA Occlusion w/ Infarct,163
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Septicemia Infections,44
+New England Baptist Hospital,103,2059,Specialty Hospital,,
+Newton-Wellesley Hospital,105,2075,Community Hospital,Bacterial Skin Infections,222
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Hip Joint Replacement,331
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Schizophrenia,429
+Saint Vincent Hospital,127,2128,Teaching Hospital,Renal Failure,319
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Kidney & UT Infections,191
+South Shore Hospital,122,2107,Community Hospital,Alcohol Abuse & Dependence,410
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Maj Resp Infect & Inflam,580
+Steward Carney Hospital,42,2003,Teaching Hospital,COPD,102
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Bacterial Skin Infections,349
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Kidney & UT Infections,263
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Other Pneumonia,202
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Diabetes,200
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Heart Failure,229
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Pancreas Dis exc Malig,154
+Tufts Medical Center,104,2299,Academic Medical Center,Other Pneumonia,239
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,CVA Occlusion w/ Infarct,457
+Winchester Hospital,138,2094,Community Hospital,Cardiac Arrhythmia ,194
+Anna Jaques Hospital,1,2006,Community Hospital,Cardiac Arrhythmia ,141
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Renal Failure,94
+Baystate Medical Center,4,2339,Teaching Hospital,Bacterial Skin Infections,562
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Cardiac Arrhythmia ,54
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,CVA Occlusion w/ Infarct,54
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Bacterial Skin Infections,272
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,CVA Occlusion w/ Infarct,81
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Diverticulitis/osis,52
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Pulm Edema & Resp Failure,221
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Hip Joint Replacement,433
+Boston Children's Hospital ,46,2139,Specialty Hospital,Infects -Upper Resp Tract,252
+Boston Medical Center,3107,2307,Academic Medical Center,Seizure,316
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,Maj Depressive Disorders,168
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Knee Joint Replacement,492
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Org Mental Hlth Disturb,135
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Per Cardio procs w/o AMI,279
+Cooley Dickinson Hospital,50,2155,Community Hospital,Schizophrenia,151
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,Other Pneumonia,129
+Fairview Hospital,8,2052,Community High Public Payer Hospital,,
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,CVA Occlusion w/ Infarct,109
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Cardiac Arrhythmia ,94
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Org Mental Hlth Disturb,142
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Procedures For Obesity,112
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Cesarean Delivery,121
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Other Digestive System Dx,362
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,CVA Occlusion w/ Infarct,155
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Cardiac Arrhythmia ,370
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Pulm Edema & Resp Failure,73
+Martha's Vineyard Hospital,88,2042,Community Hospital,Cardiac Arrhythmia ,27
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Maj Larynx & Trachea Proc,35
+Massachusetts General Hospital,91,2168,Academic Medical Center,Other Pneumonia,712
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Bacterial Skin Infections,160
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Schizophrenia,337
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Kidney & UT Infections,174
+Milford Regional Medical Center,97,2105,Community Hospital,Knee Joint Replacement,150
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Diabetes,92
+Mount Auburn Hospital,100,2071,Teaching Hospital,Bacterial Skin Infections,162
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Pancreas Dis exc Malig,42
+New England Baptist Hospital,103,2059,Specialty Hospital,,
+Newton-Wellesley Hospital,105,2075,Community Hospital,D & L Fusion exc Curvature,203
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Knee Joint Replacement,330
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Cardiac Arrhythmia ,423
+Saint Vincent Hospital,127,2128,Teaching Hospital,Kidney & UT Infections,296
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Maj Depressive Disorders,185
+South Shore Hospital,122,2107,Community Hospital,Knee Joint Replacement,400
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Kidney & UT Infections,570
+Steward Carney Hospital,42,2003,Teaching Hospital,Pancreas Dis exc Malig,89
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Knee Joint Replacement,312
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Cardiac Arrhythmia ,260
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Schizophrenia,180
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Maj Resp Infect & Inflam,196
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Septicemia Infections,216
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Cardiac Arrhythmia ,140
+Tufts Medical Center,104,2299,Academic Medical Center,CC W Circ Disord Exc IHD,236
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Other Digestive System Dx,454
+Winchester Hospital,138,2094,Community Hospital,Kidney & UT Infections,194
+Anna Jaques Hospital,1,2006,Community Hospital,Depression exc MDD,124
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Alcohol Abuse & Dependence,84
+Baystate Medical Center,4,2339,Teaching Hospital,Acute Myocardial Infarct.,524
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Kidney & UT Infections,52
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Pancreas Dis exc Malig,54
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Pulm Edema & Resp Failure,265
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Procedures For Obesity,78
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Knee Joint Replacement,44
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Cardiac Arrhythmia ,212
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,Other Pneumonia,424
+Boston Children's Hospital ,46,2139,Specialty Hospital,D & L Fusion for Curvature,247
+Boston Medical Center,3107,2307,Academic Medical Center,CVA Occlusion w/ Infarct,314
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,"Drug/Alcohol Abuse, LAMA",166
+Brigham and Women's Hospital,22,2921,Academic Medical Center,Cardiac Arrhythmia ,473
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Pancreas Dis exc Malig,132
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Renal Failure,272
+Cooley Dickinson Hospital,50,2155,Community Hospital,Bacterial Skin Infections,138
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,COPD,102
+Fairview Hospital,8,2052,Community High Public Payer Hospital,,
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,Acute Myocardial Infarct.,104
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Alcohol Abuse & Dependence,90
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Pulm Edema & Resp Failure,139
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Hip Joint Replacement,109
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Bipolar Disorders,121
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Kidney & UT Infections,348
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Asthma,151
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,Procedures For Obesity,296
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Cardiac Arrhythmia ,68
+Martha's Vineyard Hospital,88,2042,Community Hospital,Bacterial Skin Infections,27
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,O.R. Proc for TX Comp,34
+Massachusetts General Hospital,91,2168,Academic Medical Center,CVA Occlusion w/ Infarct,603
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Depression exc MDD,159
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Cesarean Delivery,326
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Pulm Edema & Resp Failure,153
+Milford Regional Medical Center,97,2105,Community Hospital,Bacterial Skin Infections,138
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,CVA Occlusion w/ Infarct,90
+Mount Auburn Hospital,100,2071,Teaching Hospital,Renal Failure,146
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Bipolar Disorders,42
+New England Baptist Hospital,103,2059,Specialty Hospital,,
+Newton-Wellesley Hospital,105,2075,Community Hospital,Maj Sml & Lrg Bowel Procs,197
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Alcohol Abuse & Dependence,316
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Kidney & UT Infections,416
+Saint Vincent Hospital,127,2128,Teaching Hospital,Per Cardio procs w/o AMI,283
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Renal Failure,183
+South Shore Hospital,122,2107,Community Hospital,Renal Failure,390
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,Acute Myocardial Infarct.,510
+Steward Carney Hospital,42,2003,Teaching Hospital,Other Pneumonia,87
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Cardiac Arrhythmia ,301
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Bacterial Skin Infections,254
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,COPD,179
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,Degen Nrvs Syst exc MS,185
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,"Drug/Alcohol Abuse, LAMA",207
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Maj Resp Infect & Inflam,136
+Tufts Medical Center,104,2299,Academic Medical Center,Hip Joint Replacement,228
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Maj Sml & Lrg Bowel Procs,452
+Winchester Hospital,138,2094,Community Hospital,Renal Failure,175
+Anna Jaques Hospital,1,2006,Community Hospital,Bacterial Skin Infections,111
+Athol Hospital,2,2226,Community High Public Payer Hospital,,
+Baystate Franklin Medical Center,5,2120,Community High Public Payer Hospital,Kidney & UT Infections,73
+Baystate Medical Center,4,2339,Teaching Hospital,Cardiac Arrhythmia ,520
+Baystate Noble Hospital,106,2076,Community High Public Payer Hospital,Renal Failure,50
+Baystate Wing Hospital,14495,2181,Community High Public Payer Hospital,Diverticulitis/osis,49
+Berkshire Medical Center,6309,2313,Community High Public Payer Hospital,Cardiac Arrhythmia ,221
+Beth Israel Deaconess Hospital - Milton,98,2227,Community Hospital,Laparoscopic Cholecystectomy,77
+Beth Israel Deaconess Hospital - Needham,53,2054,Community Hospital,Peptic Ulcer & Gastritis,39
+Beth Israel Deaconess Hospital - Plymouth,79,2082,Community High Public Payer Hospital,Degen Nrvs Syst exc MS,209
+Beth Israel Deaconess Medical Center,8702,2069,Academic Medical Center,CVA Occlusion w/ Infarct,393
+Boston Children's Hospital ,46,2139,Specialty Hospital,"Non-Bact Gastro, Nausea",222
+Boston Medical Center,3107,2307,Academic Medical Center,Asthma,299
+Brigham and Women's Faulkner Hospital,59,2048,Community Hospital,D & L Fusion exc Curvature,155
+Brigham and Women's Hospital,22,2921,Academic Medical Center,CVA Occlusion w/ Infarct,463
+Cambridge Health Alliance,3108,2108,Teaching Hospital,Other Pneumonia,128
+Cape Cod Hospital,39,2135,Community High Public Payer Hospital,Cesarean Delivery,257
+Cooley Dickinson Hospital,50,2155,Community Hospital,Renal Failure,137
+Dana-Farber Cancer Institute,51,2335,Specialty Hospital,,
+Emerson Hospital,57,2018,Community Hospital,Depression exc MDD,102
+Fairview Hospital,8,2052,Community High Public Payer Hospital,,
+Falmouth Hospital,40,2289,Community High Public Payer Hospital,COPD,103
+Harrington Memorial Hospital,68,2143,Community High Public Payer Hospital,Pancreas Dis exc Malig,76
+HealthAlliance-Clinton Hospital,14496,2034,Community High Public Payer Hospital,Knee Joint Replacement,135
+Heywood Memorial Hospital,73,2036,Community High Public Payer Hospital,Maj Depressive Disorders,98
+Holyoke Medical Center,77,2145,Community High Public Payer Hospital,Knee Joint Replacement,117
+Lahey Hospital & Medical Center,6546,2033,Teaching Hospital,Bacterial Skin Infections,307
+Lawrence General Hospital,83,2099,Community High Public Payer Hospital,Diabetes,146
+Lowell General Hospital,85,2040,Community High Public Payer Hospital,CVA Occlusion w/ Infarct,281
+Marlborough Hospital,133,2103,Community High Public Payer Hospital,Alcohol Abuse & Dependence,68
+Martha's Vineyard Hospital,88,2042,Community Hospital,,
+Massachusetts Eye and Ear Infirmary,89,2167,Specialty Hospital,Thyroid & Other Procs,28
+Massachusetts General Hospital,91,2168,Academic Medical Center,Other Digestive System Dx,527
+MelroseWakefield Hospital (Hallmark Health),3111,2038,Community High Public Payer Hospital,Bipolar Disorders,157
+Mercy Medical Center,6547,2149,Community High Public Payer Hospital,Renal Failure,295
+MetroWest Medical Center,3110,2020,Community High Public Payer Hospital,Renal Failure,151
+Milford Regional Medical Center,97,2105,Community Hospital,Pancreas Dis exc Malig,125
+"Morton Hospital, A Steward Family Hospital",99,2022,Community High Public Payer Hospital,Maj Resp Infect & Inflam,80
+Mount Auburn Hospital,100,2071,Teaching Hospital,"Non-Bact Gastro, Nausea",141
+Nantucket Cottage Hospital,101,2044,Community Hospital,,
+"Nashoba Valley Medical Center, A Steward Family Hospital",11467,2298,Community High Public Payer Hospital,Diverticulitis/osis,41
+New England Baptist Hospital,103,2059,Specialty Hospital,,
+Newton-Wellesley Hospital,105,2075,Community Hospital,Diverticulitis/osis,188
+North Shore Medical Center,345,2073,Community High Public Payer Hospital,Renal Failure,315
+Northeast Hospital,3112,2007,Community High Public Payer Hospital,Bacterial Skin Infections,404
+Saint Vincent Hospital,127,2128,Teaching Hospital,Per Cardio procs w/ AMI,222
+Shriners Hospitals for Children - Boston,6963,2316,Specialty Hospital,,
+Shriners Hospitals for Children - Springfield,11718,2152,Specialty Hospital,,
+Signature Healthcare Brockton Hospital,25,2118,Community High Public Payer Hospital,Hip Joint Replacement,158
+South Shore Hospital,122,2107,Community Hospital,Other Digestive System Dx,388
+Southcoast Hospital Group,3113,2010,Community High Public Payer Hospital,CVA Occlusion w/ Infarct,480
+Steward Carney Hospital,42,2003,Teaching Hospital,Diabetes,85
+Steward Good Samaritan Medical Center,8701,2101,Community High Public Payer Hospital,Renal Failure,263
+Steward Holy Family Hospital,75,2225,Community High Public Payer Hospital,Hip Joint Replacement,219
+Steward Norwood Hospital,41,2114,Community High Public Payer Hospital,Org Mental Hlth Disturb,177
+Steward Saint Anne's Hospital,114,2011,Community High Public Payer Hospital,"Non-Bact Gastro, Nausea",162
+Steward St. Elizabeth's Medical Center,126,2085,Teaching Hospital,Depression exc MDD,180
+Sturdy Memorial Hospital,129,2100,Community High Public Payer Hospital,Alcohol Abuse & Dependence,130
+Tufts Medical Center,104,2299,Academic Medical Center,Coronary Bypass w/o Card Cath,227
+UMass Memorial Medical Center,3115,2841,Academic Medical Center,Pancreas Dis exc Malig,442
+Winchester Hospital,138,2094,Community Hospital,Pulm Edema & Resp Failure,156
